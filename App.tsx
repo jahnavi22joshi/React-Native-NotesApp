@@ -9,7 +9,7 @@ const YourApp = () => {
         justifyContent: 'center',
         alignItems: 'center',
       }}>
-      <Text>Notes App123! 🎉</Text>
+      <Text>Notes App! 🎉</Text>
     </View>
   );
 };
